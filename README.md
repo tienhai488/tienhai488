@@ -37,12 +37,12 @@ Web Developer
 <div width="100%" align="center">
   <a href="https://github.com/tienhai488/project_htdn">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tienhai488&repo=Web2&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tienhai488&repo=project_htdn&theme=radical" />
   </a>
 
   <a href="https://github.com/tienhai488/laravel_blog">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tienhai488&repo=Web2&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tienhai488&repo=laravel_blog&theme=radical" />
   </a>
 
   <a href="https://github.com/tienhai488/Web2/">
